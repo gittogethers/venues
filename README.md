@@ -1,8 +1,6 @@
 # GitTogethers Collaboration Proposal
 
-Powered by GitHub and led by community experts, GitTogethers are developer meetups where we cover latest technology topics around AI, Open Source, and Security. 
-
-We invite you to collaborate with us for these gatherings for developers in [Bengaluru](https://www.meetup.com/gittogether-bengaluru), [Delhi NCR](https://www.meetup.com/gittogether-delhi), [Hyderabad](https://www.meetup.com/gittogether-hyderabad) and [Mumbai](https://www.meetup.com/gittogether-mumbai).
+Powered by GitHub and led by community experts, GitTogethers are developer meetups where we cover latest technology topics around AI, Open Source, and Security. We invite you to collaborate with us for these exclusive gatherings for developers.
 
 ![image](https://github.com/user-attachments/assets/55a01c3b-fd6a-4f99-8f7b-6b41a726ca24)
 [GitTogether Bengaluru February 2025 Meetup](https://www.meetup.com/gittogether-bengaluru/events/306010406/) hosted at JFrog Bengaluru.
